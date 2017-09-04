@@ -1,0 +1,10 @@
+{
+  "status-db-url": "http://localhost:8081",
+  "api-key": "368c41a2-4f6b-40a7-b1a7-528bd5380156",
+  "namespace": "musuk-network",
+  "network-mask": "192.168.1.0/24",
+  "check-period": 2000,
+  "loggers": "all",
+  "log_level": "warn",
+  "state-file": "./network.json"
+}
